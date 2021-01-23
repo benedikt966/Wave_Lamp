@@ -26,4 +26,4 @@ pip install foobar
 
 ## License
 
-The used design was used by [Thingiverse](https://www.thingiverse.com/thing:3481557) and it is a Remix of a design by  Thingiverse user splitbrain.
+The used 3D design was remixed by Thingiverse user splitbrain. [Thingiverse](https://www.thingiverse.com/thing:3481557) and my design is just his version cutted/minimized. 
